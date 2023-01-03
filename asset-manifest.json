@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/hotel-webpage/static/css/main.13e693bf.css",
+    "main.js": "/hotel-webpage/static/js/main.3026d251.js",
+    "static/media/bg-img.png": "/hotel-webpage/static/media/bg-img.776bad445bfac1f243b8.png",
+    "static/media/img1.png": "/hotel-webpage/static/media/img1.1d9083983ae2d85fc93d.png",
+    "static/media/hotel-receptionist.jpg": "/hotel-webpage/static/media/hotel-receptionist.c90a2129f40c233e17cd.jpg",
+    "static/media/img3.png": "/hotel-webpage/static/media/img3.dd164131a493a3fbf4da.png",
+    "static/media/img2.png": "/hotel-webpage/static/media/img2.c8094800dec0a4774201.png",
+    "static/media/img4.png": "/hotel-webpage/static/media/img4.aa579c1ebad6d7e5cd4d.png",
+    "index.html": "/hotel-webpage/index.html",
+    "main.13e693bf.css.map": "/hotel-webpage/static/css/main.13e693bf.css.map",
+    "main.3026d251.js.map": "/hotel-webpage/static/js/main.3026d251.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13e693bf.css",
+    "static/js/main.3026d251.js"
+  ]
+}
