@@ -1,0 +1,63 @@
+
+.image_container{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    gap:1rem;
+}
+.hotel-receptionist{
+    position: relative;
+   
+
+}
+.img_content{
+   width:100%;
+   height: 100%;
+   object-fit: cover;
+}
+.circle{
+    background-color: white;
+    border-radius: 100%;
+    width:120px;
+    height:120px;
+    position:absolute;
+    bottom:2%;
+    left:2%;
+}
+.v{
+    background-color:green;
+    border-radius: 100%;
+    width:40%;
+    height:40%;
+    position:absolute;
+    top:20%;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+    font-weight: 600;
+    color:white;
+    left:15%;
+}
+.r{
+    background-color: orange;
+    border-radius: 100%;
+    width:40%;
+    height:40%;
+    position:absolute;
+    bottom:20%;
+    left:45%;
+    text-align: center;
+    color:black;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 40px;
+    border:2px solid white;
+}
+.imageItems{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    gap:1rem;
+    row-gap: 1rem;
+}
+.image-item{
+    background-color: orange;
+}

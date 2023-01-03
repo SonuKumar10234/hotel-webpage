@@ -1,0 +1,63 @@
+.content_container{
+    width: 80%;
+    margin:auto;
+    padding: 2rem 0rem;
+}
+.company_details{
+    margin-top: 20px;
+    display: flex;
+}
+.company_owner{
+    width: 50%;
+}
+.address{
+    display: flex;
+    justify-content: flex-end;
+    width:50%;
+}
+.services{
+    width:70%;
+}
+.service_list{
+    display:flex;
+    justify-content:space-between;
+    margin-left:15px;
+}
+.poverty_rules{
+    display: flex;
+    gap:6rem;
+    margin-top: 20px;
+}
+.rule-1{
+    margin-left: 30px;
+}
+.rule-1 ul li{
+    margin-bottom: 5px;
+}
+.rule-2{
+    margin-left: 30px;
+}
+.rule-2 ul li{
+    margin-bottom: 5px;
+}
+
+@media screen and (max-width:600px) {
+    .company_details{
+        flex-direction: column;
+    }
+    .company_owner{
+        width: 100%;
+    }
+    .address{
+        justify-content: flex-start;
+        width:100%;
+    }
+   .service_list{
+    flex-direction: column;
+   }
+   .poverty_rules{
+    flex-direction: column;
+    gap:1rem;
+
+   }
+}
